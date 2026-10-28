@@ -1,0 +1,4 @@
+interface:
+  display_name: "Econ-AI Scientist"
+  short_description: "Plan and audit reproducible panel-data research"
+  default_prompt: "使用 $econ-ai-scientist 检查面板数据，规划并复算实验，整理五维审计证据。"
